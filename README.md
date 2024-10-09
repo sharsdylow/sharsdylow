@@ -1,4 +1,4 @@
-<p align="center"><a href="https://evezhang.dev"><img width="100%" alt="Hello, I'm Eve" src="./assets/gh-readme-header.svg" /></a></p>
+<p align="center"><a href="https://evezhang.dev"><img width="100%" alt="Hello, I'm Eve" src="./assets/gh-readme-header-new.svg" /></a></p>
 
 <br />
 
