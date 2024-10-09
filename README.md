@@ -1,8 +1,8 @@
-<p align="center"><a href="https://evezhang.dev"><img width="100%" alt="Hello, I'm Eve" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://evezhang.dev"><img width="100%" alt="Hello, I'm Eve" src="./assets/gh-readme-header.svg" /></a></p>
 
 <br />
 
-I'm a self-taught passionate Fullstack developer Based in the Bay Area
+I'm a self-taught passionate Fullstack developer based in the Bay Area
 
 **About me**
 
@@ -32,12 +32,11 @@ I'm a self-taught passionate Fullstack developer Based in the Bay Area
 #### Repositories
 
 
-<a href="https://github.com/sharsdylow/IoT-System-Database-Transaction-Simulator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=IoT-System-Database-Transaction-Simulator" />
-</a>
 <a href="https://github.com/sharsdylow/Next.js-Dashboard">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=Next.js-Dashboard&theme=buefy" />
 </a>
-
+<a href="https://github.com/sharsdylow/IoT-System-Database-Transaction-Simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=IoT-System-Database-Transaction-Simulator" />
+</a>
 <br />
 <br />
