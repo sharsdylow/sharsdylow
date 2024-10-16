@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a passionate Fullstack developer based in the Bay Area.
+I'm a passionate Fullstack developer based in the Bay Area 🌉.
 
 **About me**
 
