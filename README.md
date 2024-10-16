@@ -2,7 +2,7 @@
 
 <br />
 
-I'm a self-taught passionate Fullstack developer based in the Bay Area
+I'm a passionate Fullstack developer based in the Bay Area.
 
 **About me**
 
@@ -12,7 +12,7 @@ I'm a self-taught passionate Fullstack developer based in the Bay Area
 
 - ❤️ I love building web apps
 
-- 💬 Ask me about anything [here](https://github.com/sharsdylo/sharsdylow/issues)
+- 💬 Ask me about anything [here](https://github.com/sharsdylow/sharsdylow/issues)
 
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 <code><img width="30" src="https://user-images.githubusercontent.com/25181517/189716630-fe6c084c-6c66-43af-aa49-64c8aea4a5c2.png" alt="Material UI" title="Material UI"/></code>
