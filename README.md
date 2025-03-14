@@ -2,12 +2,12 @@
 
 <br />
 
-I'm a self-taught passionate Fullstack developer based in the Bay Area
+I'm a passionate Fullstack developer based in the Bay Area
 
 **About me**
-
 - 💼 Software Engineer Intern at [Gyfr](https://gyfrapp.com/)
 
+- 📖 Graduated From UC Irvine. Zot!Zot!Zot!
 - 📈 Looking for frontend/fullstack/IoT opportunities
 
 - ❤️ I love building web apps
