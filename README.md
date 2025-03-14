@@ -8,7 +8,7 @@ I'm a self-taught passionate Fullstack developer based in the Bay Area
 
 - 💼 Software Engineer Intern at [Gyfr](https://gyfrapp.com/)
 
-- 📈 Looking for frontend/fullstack opportunities
+- 📈 Looking for frontend/fullstack/IoT opportunities
 
 - ❤️ I love building web apps
 
@@ -32,8 +32,11 @@ I'm a self-taught passionate Fullstack developer based in the Bay Area
 #### Repositories
 
 
-<a href="https://github.com/sharsdylow/Next.js-Dashboard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=Next.js-Dashboard&theme=buefy" />
+<a href="https://github.com/sharsdylow/AI-HackerNews">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=AI-HackerNews" />
+</a>
+<a href="https://github.com/sharsdylow/process_monitor">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=process_monitor" />
 </a>
 <a href="https://github.com/sharsdylow/IoT-System-Database-Transaction-Simulator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sharsdylow&repo=IoT-System-Database-Transaction-Simulator" />
