@@ -5,12 +5,12 @@
 I'm a passionate Fullstack developer based in the Bay Area 🌉.
 
 **About me**
-- 💼 Software Engineer Intern at [Gyfr](https://gyfrapp.com/)
+- 💼 Software Engineer at YouTube
 
 - 📖 Graduated From UC Irvine. Zot!Zot!Zot!
-- 📈 Looking for frontend/fullstack/IoT opportunities
+- 📈 Looking for ML/fullstack opportunities
 
-- ❤️ I love building web apps
+- ❤️ I love building Models!
 
 - 💬 Ask me about anything [here](https://github.com/sharsdylow/sharsdylow/issues)
 
